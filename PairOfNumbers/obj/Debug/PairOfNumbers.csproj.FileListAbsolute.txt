@@ -1,0 +1,6 @@
+C:\Users\Влад\Documents\GitHub\PairOfNumbers\PairOfNumbers\PairOfNumbers\bin\Debug\PairOfNumbers.exe.config
+C:\Users\Влад\Documents\GitHub\PairOfNumbers\PairOfNumbers\PairOfNumbers\bin\Debug\PairOfNumbers.exe
+C:\Users\Влад\Documents\GitHub\PairOfNumbers\PairOfNumbers\PairOfNumbers\bin\Debug\PairOfNumbers.pdb
+C:\Users\Влад\Documents\GitHub\PairOfNumbers\PairOfNumbers\PairOfNumbers\obj\Debug\PairOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Documents\GitHub\PairOfNumbers\PairOfNumbers\PairOfNumbers\obj\Debug\PairOfNumbers.exe
+C:\Users\Влад\Documents\GitHub\PairOfNumbers\PairOfNumbers\PairOfNumbers\obj\Debug\PairOfNumbers.pdb
